@@ -1,0 +1,37 @@
+﻿@model TaskManagementSystem.ViewModels.EmployeeWithTaskList
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h1 class="display-4">Employee Details</h1>
+
+<div>ID: @Model.EmployeeID</div>
+<div>Name: @Model.Name</div>
+<div>Surname: @Model.Surname</div>
+<div>Date of Birth @Model.DayOfBirthday.ToString("dd-MM-yyyy")</div>
+<div>Email Address: @Model.EmailAddress</div>
+<div>Phone Number: @Model.PhoneNumber</div>
+<div>Department: @Model.DeptName</div>
+
+<div class="w-50">
+    <table class="table table-secondary text-center table-sm">
+        <thead>
+            <tr>
+                <th>Task Title</th>
+                <th>Task Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Tasks z in Model.TaskList)
+            {
+                <tr>
+                    <td>@z.Title</td>
+                    <td> @z.Description</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+<a asp-action="Main">Back to Task List</a>

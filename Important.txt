@@ -1,0 +1,42 @@
+# ASP.NET 5 Application project for managing tasks, employees and departments.
+
+This application demonstrates me learning ASP.NET 5 and Entity Framwork.
+
+<li>C#</li>
+<li>Bootstrap</li>
+<li>CSS3</li>
+
+# Technologies I used:
+
+<li>ASP.NET 5</li>
+<li>Microsoft Entity Framwork</li>
+<li>ASP.NET Razor</li>
+<li>MS SQL Server 2019</li>
+<li>Bootstrap</li>
+<li>jQuery JavaScript Library</li>
+<li>jQuery Validation Plugin + Unobtrusive validation support library</li>
+
+# Features:
+<li>Show list of tasks, employees and departments</li>
+<li>Show details for selected task, employee and department</li>
+<li>Edit tasks, employees and departments</li>
+<li>Add employees to tasks and departments</li>
+<li>Save added tasks, employees and deparments in database</li> 
+
+# I enjoyed building this Task Management System which was a good challenge
+
+# I have taken knowledge that I have and applied it to this web application I have built which took me 3.5 days to build.
+# I didn't have much trouble building this application as it was off the backbone of a ToDoList application I built.
+# I have not done any Unit testing as it is something I am still grasping but I do understand how to debug and problem solve.
+# All my knowledge comes from the Microsoft Learning Wesbite and courses I have obtained via Udemy.
+# It was a fun project as it tested my skills. 
+# IMPORTANT!!!
+# If application gives SQLServer Error then please do as follows:
+# Delete Migration folder in the application
+# Go to Tools > Nuget Package Manager > Packahe Manager Console
+# In Package Manager Console type - add-migration <AddDatabaseName> then type update-database
+# F5 to run application
+
+# Go to Manage Departments and create a new Department eg Workshop
+# Go to Employee Management and create an employee
+# Go to Task List and then create a task for employee

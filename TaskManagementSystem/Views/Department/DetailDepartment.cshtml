@@ -1,0 +1,35 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<h1>Department Details</h1>
+
+<div>
+    <p>Department ID: @Model.DepartmentID</p>
+    <p>Department Name: @Model.Name</p>
+    <p>Department Description: @Model.Description</p>
+
+    <div class="w-50">
+        <table class="table table-secondary table-sm text-center">
+            <thead>
+                <tr>
+                    <th>Employee First Name</th>
+                    <th>Employee Surname</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Employee e in Model.Employees)
+                {
+                    <tr>
+                        <td>@e.Name</td>
+                        <td>@e.Surname</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <a asp-action="Index">Back to Branch Manager</a>
+</div>
+

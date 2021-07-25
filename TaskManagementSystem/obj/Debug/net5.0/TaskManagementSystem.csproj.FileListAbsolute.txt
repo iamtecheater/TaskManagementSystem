@@ -1,0 +1,320 @@
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\appsettings.json
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.exe
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.deps.json
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.runtimeconfig.json
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.runtimeconfig.dev.json
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ref\TaskManager.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.pdb
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.Views.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\TaskManager.Views.pdb
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ClosedXML.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ExcelNumberFormat.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.csproj.AssemblyReference.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.AssemblyInfo.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.RazorAssemblyInfo.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.RazorAssemblyInfo.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.Manifest.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.xml
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\scopedcss\bundle\TaskManager.styles.css
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManager.TagHelpers.input.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManager.TagHelpers.output.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.RazorCoreGenerate.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Department\AddDepartment.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Department\DetailDepartment.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Department\EditDepartment.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Employee\DetailEmployee.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Employee\Main.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\AddTask.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\DetailTask.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\EditTask.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\EmployeesListPartialView.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\EndedTasks.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\Main.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Home\StartedTasks.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManager.Views.pdb
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.csproj.CopyComplete
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManager.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\ref\TaskManager.dll
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManager.pdb
+C:\Users\bthun\Downloads\Tasks-Employees-Departments-Management-System-master\ToDoListCore\obj\Debug\net5.0\TaskManagementSystem.genruntimeconfig.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\appsettings.json
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.exe
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.deps.json
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.runtimeconfig.json
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.runtimeconfig.dev.json
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ref\TaskManager.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.Views.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\TaskManager.Views.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ClosedXML.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ExcelNumberFormat.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.IO.Packaging.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.AssemblyInfoInputs.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.AssemblyInfo.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.RazorAssemblyInfo.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.RazorAssemblyInfo.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.Manifest.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.xml
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\scopedcss\bundle\TaskManager.styles.css
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManager.TagHelpers.input.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManager.TagHelpers.output.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.RazorCoreGenerate.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Department\AddDepartment.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Department\DetailDepartment.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Department\EditDepartment.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Employee\DetailEmployee.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Employee\EditEmployee.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Employee\Main.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\AddTask.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\DetailTask.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\EditTask.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\EmployeesListPartialView.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\EndedTasks.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Main.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Home\StartedTasks.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.RazorTargetAssemblyInfo.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.RazorTargetAssemblyInfo.cs
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManager.Views.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.csproj.CopyComplete
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManager.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\ref\TaskManager.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManager.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.genruntimeconfig.cache
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Humanizer.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\.Net projects\Task Management System\TaskManagementSystem\obj\Debug\net5.0\TaskManagementSystem.csproj.AssemblyReference.cache

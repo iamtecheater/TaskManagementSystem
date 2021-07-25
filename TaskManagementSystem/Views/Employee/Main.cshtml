@@ -1,0 +1,53 @@
+﻿@model IEnumerable<TaskManagementSystem.ViewModels.EmployeeDepartment>
+@{
+    ViewData["Title"] = "Employee Management";
+}
+
+<h1>Employee Management</h1>
+
+<a asp-action="AddEmployee" class="btn btn-primary" style="margin-top: 15px; margin-bottom: 15px;">Add New Employee</a>
+
+<div>
+    <table class="table table-secondary">
+        <thead class="tab">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Email Address</th>
+                <th>Phone Number</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (TaskManagementSystem.ViewModels.EmployeeDepartment ed in Model)
+            {
+            <tr>
+                <td>@ed.EmployeeID</td>
+                <td>@ed.EmplName</td>
+                <td>@ed.EmplSurname</td>
+                <td>@ed.EmailAddress</td>
+                <td>@ed.PhoneNumber</td>
+                @if (ed.DeptName == "")
+                {
+                    <td class="text-danger">Not Assigned</td>
+                }
+                else
+                {
+                    <td>@ed.DeptName</td>
+                }
+                <td><a 
+                       asp-action="DetailEmployee" 
+                       asp-route-id="@ed.EmployeeID" 
+                       class="btn btn-secondary btn-sm">Details</a> | 
+                    <a asp-action="EditEmployee" 
+                       asp-route-id="@ed.EmployeeID" 
+                       class="btn btn-secondary btn-sm">Edit</a> | 
+                    <a asp-action="DeleteEmployee" asp-route-id="@ed.EmployeeID" 
+                       class="btn btn-secondary btn-sm">Delete</a></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

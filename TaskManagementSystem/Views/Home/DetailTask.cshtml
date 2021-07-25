@@ -1,0 +1,38 @@
+﻿<link rel="stylesheet" href="~/css/MainSite.css" type="text/css" />
+
+@model TaskManagementSystem.ViewModels.TaskWithEmpsList
+@{
+    ViewData["Title"] = "Task Details";
+}
+
+<h1 class="display-4">Task Details</h1>
+
+<div>ID: @Model.ID</div>
+<div>Task Start Date: @Model.StartDate.ToString("dd-MM-yyyy")</div>
+<div>Time Task Starts: @Model.StartTime.ToString("HH:mm")</div>
+<div>Task End Date: @Model.EndDate.ToString("dd-MM-yyyy")</div>
+<div>Time Task End: @Model.EndTime.ToString("HH:mm")</div>
+<div>Task Title: @Model.Title</div>
+<div>Task Description: @Model.Description</div>
+
+<div class="w-50 detailemplist">
+    <table class="table table-secondary table-sm text-center">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Surname</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Employee e in Model.EmployeesList)
+            {
+                <tr>
+                    <td>@e.Name</td>
+                    <td>@e.Surname</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<a asp-action="Main">Back to Task List</a>

@@ -1,0 +1,54 @@
+﻿@model TaskManagementSystem.ViewModels.TaskWithEmpsList
+@{
+    ViewData["Title"] = "Edit Task";
+}
+
+<h1 class="display-3">Edit Task</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditTask">
+            <input type="hidden" asp-for="ID" />
+            <input type="hidden" asp-for="IsEnd" />
+            <div class="form-group">
+                <label asp-for="StartDate">Select Task Start Date: </label>
+                <input class="form-control" type="date" asp-for="StartDate" />
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartTime">Select Task Start Time: </label>
+                <input class="form-control" type="time" asp-for="StartTime" />
+                <span asp-validation-for="StartTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate">Select Task Finish Date: </label>
+                <input class="form-control" type="date" asp-for="EndDate" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndTime">Select Task Time End: </label>
+                <input class="form-control" type="time" asp-for="EndTime" />
+                <span asp-validation-for="EndTime"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title">Task Title: </label>
+                <input class="form-control" asp-for="Title" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Task Description: </label>
+                <textarea class="form-control" asp-for="Description"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            @*@Html.Partial("EmployeesListPartialView")*@
+            <partial name="EmployeesListPartialView"/>
+            <button class="btn btn-primary" type="submit" action="EditTask">Update Task</button>
+            <a asp-action="Main">Back to Task List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TaskManagementSystem.Models.Department>
+
+@{
+    ViewData["Title"] = "Manage Departments";
+}
+
+<h1>Manage Departments</h1>
+
+<a asp-action="AddDepartment" class="btn btn-primary" style="margin-top: 15px; margin-bottom: 15px;">Add New Department</a>
+
+<div>
+    <table class="table table-secondary">
+        <thead class="tab">
+            <tr>
+                <th>ID</th>
+                <th>Department Name</th>
+                <th>Department Description</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Department d in Model)
+            {
+                <tr>
+                    <td>@d.DepartmentID</td>
+                    <td>@d.Name</td>
+                    <td>@d.Description</td>
+                    <td><a 
+                           asp-action="DetailDepartment" 
+                           asp-route-id="@d.DepartmentID" 
+                           class="btn btn-secondary btn-sm">Details
+                        </a> | 
+                        <a asp-action="EditDepartment" 
+                           asp-route-id="@d.DepartmentID" 
+                           class="btn btn-secondary btn-sm">Edit</a> | 
+                        <a asp-action="DeleteDepartment" 
+                           asp-route-id="@d.DepartmentID" 
+                           class="btn btn-secondary btn-sm">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

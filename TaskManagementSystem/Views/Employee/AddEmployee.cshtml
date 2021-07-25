@@ -1,0 +1,48 @@
+﻿@model TaskManagementSystem.ViewModels.EmployeeDepartment
+@{
+    ViewData["Title"] = "Add New Employee";
+}
+
+<h1 class="display-4">Add New Employee</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddEmployee">
+            <div class="form-group">
+                <label asp-for="EmplName">Employee First Name: </label>
+                <input class="form-control" asp-for="EmplName" />
+                <span asp-validation-for="EmplName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmplSurname">Employee Surname: </label>
+                <input class="form-control" asp-for="EmplSurname" />
+                <span asp-validation-for="EmplSurname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DayOfBirthday">Employee Date of Birth: </label>
+                <input type="date" class="form-control" asp-for="DayOfBirthday" />
+                <span asp-validation-for="DayOfBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailAddress">Employee Email Address: </label>
+                <input class="form-control" asp-for="EmailAddress" />
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber">Employee Phone Number: </label>
+                <input class="form-control" asp-for="PhoneNumber" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="DepartmentID">Select Department: </label>
+                <select asp-for="DepartmentID" asp-items="@(new SelectList(Model.departmentsEDVM, "DepartmentID", "Name"))"></select>
+                <span asp-validation-for="DepartmentID" class="text-danger"></span>
+            </div>
+            <button class="btn btn-primary" type="submit">Add New Employee</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

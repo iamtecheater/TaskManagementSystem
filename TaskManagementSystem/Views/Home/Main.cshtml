@@ -1,0 +1,25 @@
+﻿<link rel="stylesheet" href="~/css/MainSite.css" />
+ 
+@{
+    ViewData["Title"] = "Main";
+}
+
+<h1 class="text-primary">Tasks Started</h1>
+
+<a asp-action="AddTask" class="btn btn-primary" style="margin-top: 15px; margin-bottom: 15px;">Add Task</a>
+
+<form>
+    <p>
+        Task Title: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+</form>
+<a asp-action="WriteDataToExcel" class="margin-top: 15px; margin-bottom: 15px;">Export Task Tables to Excel</a>
+
+@*@Html.Partial("StartedTasks")*@
+<partial name="StartedTasks"/>
+@*@Html.Partial("EndedTasks")*@
+<partial name="EndedTasks" />
+
+
+
